@@ -20,6 +20,9 @@ The following table contains a full list of |addon| releases and related |NCS| a
    * - :ref:`v0.1.0 <release_notes_v010>`
      - v3.4.0
      - v1.0.0
+   * - :ref:`v0.7.0 <release_notes_v070>`
+     - v3.4.1
+     - v1.1.0
 
 .. toctree::
    :maxdepth: 1
@@ -28,3 +31,4 @@ The following table contains a full list of |addon| releases and related |NCS| a
 
    release_notes/release_notes_changelog.rst
    release_notes/release_notes_v010.rst
+   release_notes/release_notes_v070.rst
