@@ -31,11 +31,8 @@ A known issue can list one or both of the following entries:
 
    wontfix Won't fix
 
-List of known issues for the v0.1.0 release
-*******************************************
-
-The following release is `experimental <Software maturity levels_>`_.
-Because of this, not all behavior is fully defined or validated.
+List of known issues
+********************
 
 .. _knx_iot_known_issue_actuator_state_not_persisted:
 
